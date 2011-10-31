@@ -12,7 +12,7 @@
     Graphics (Imagepicker): Tjandra Mayerhold<br /><br /><br />
 
 
-    <a href="https://github.com/enyo/formwatcher/tags">Get the source at github.com</a>
+    Get the source at <a href="https://github.com/enyo/formwatcher/tags">github.com</a>.<br /><br /><br />
     
     
     
